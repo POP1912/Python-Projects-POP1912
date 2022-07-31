@@ -7,4 +7,4 @@ These are the list of Games/Projects till now -
     The user/player will be given 5 chances to guess a number which the program picked from 1 to 25(both inclusive) randomly.
 
     *learned something new*:
-        We can import "random", and use "random.randint(start, end)" o generate random number b/w start and end numbers.
+        We can import "random", and use "random.randint(start, end)" to generate random number b/w start and end numbers(including both).
