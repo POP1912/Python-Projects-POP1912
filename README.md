@@ -8,3 +8,9 @@ These are the list of Games/Projects till now -
 
     *learned something new*:
         We can import "random", and use "random.randint(start, end)" to generate random number b/w start and end numbers(including both).
+    
+2. jokes.py - 
+    The program will tell you a 3 jokes, make sure to laugh, else the program will feel very bad :(.
+
+    *learned something new*:
+        Refreshed that we can still use ' in the print statement using */*'
