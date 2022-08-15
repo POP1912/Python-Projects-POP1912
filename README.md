@@ -14,3 +14,9 @@ These are the list of Games/Projects till now -
 
     *learned something new*:
         Refreshed that we can still use ' in the print statement using */*'
+
+3. gragon.py -
+    In this game, the player must choose one of the two caves infornt of him. Both caves have treasures, which are protected by Dragons. But only a 'friendly' dragon will happily shares it's treasures, while the other dragon kill the player. 
+
+    *learned something new*:
+        we can import 'time' and using 'time.sleep(seconds)' will makes the program to wait the number of seconds, before going/executing to the next line/code!!!.
