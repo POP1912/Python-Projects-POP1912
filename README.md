@@ -15,7 +15,7 @@ These are the list of Games/Projects till now -
     *learned something new*:
         Refreshed that we can still use ' in the print statement using */*'
 
-3. gragon.py -
+3. dragon.py -
     In this game, the player must choose one of the two caves infornt of him. Both caves have treasures, which are protected by Dragons. But only a 'friendly' dragon will happily shares it's treasures, while the other dragon kill the player. 
 
     *learned something new*:
